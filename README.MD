@@ -28,5 +28,12 @@ the Bot owners assume no liability for the unintentional or malicious breach of 
 In the event of an unauthorised Data access, users will be notified through the Discord client application.
 
 
+<h1>Terms Of Service</h1>
 
+
+<h2>Proprietary Rights</h2>
+
+We (IAKuro Bot or more precisely the founders Kurosokî#1836 and ╲⎝⧹ Maxou ⧸⎠╱#0712) own and retain all rights to the user profile interface, 
+and all illustrations related to the bot games. 
+So you should not sell or steal them.
 
